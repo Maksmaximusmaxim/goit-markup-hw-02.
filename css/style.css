@@ -1,0 +1,179 @@
+body{
+    font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+:root {
+    --color-a:#2196F3 ;
+    --color-b: #757575;
+    --color-c:#2F303A ;
+    --color-d:#FFFFFF ;
+    --colo-ir:#2dce50 ;
+    --color-f:#8178b9 ;
+    --color-g:#E5E5E5 ;
+}
+
+
+
+
+
+
+
+
+.list{
+    list-style: none;
+}
+.nigniya-nas{
+    color: var(--color-b);
+}
+.nogi{
+    background: var(--color-c);
+}
+.logo{
+    color: var(--color-a);
+}
+.studio{
+    color:var(--color-d);
+}
+.adres{
+    color:var(--color-d);
+}
+.studio1{
+    color: var(--color-c);
+}
+.dannie list{
+    color:var(--color-d);
+}
+.pochta , .nomer{
+ color: var(--color-b);
+}
+
+}
+
+}
+.nomer1{
+    color: var(--color-b);
+}
+.portfolio :active{
+    color:var(--color-a);
+}
+.vse :hover{
+    color:var(--color-a);
+}
+.name{
+    cursor: pointer;
+}
+
+.foto{
+ background: var(--color-g)
+}
+.hero-kolor{
+    background: var(--color-c);
+}
+.nadpis{
+    color: var(--color-d);
+}
+.knopka-hero{
+    background:var(--color-a);
+    color: var(--color-d);
+}
+.fon-ludei{
+    background: var(--color-d);
+}
+.pochta:hover{
+    color:var(--color-a);
+}
+.nomer:hover{
+    color:var(--color-a);
+}
+.pochta3:hover{
+    color:var(--color-a);
+}
+.nomer4:hover{
+    color:var(--color-a);
+}
+.pochta3{
+color: var(--color-b);
+}
+.nomer4{
+    color: var(--color-b);
+}
+.name{
+background: var(--color-d);
+color: var(--color-c);
+}
+.name:hover{
+background: var(--color-a);
+color: var(--color-d);
+}
+.studia{
+    color: var(--color-c);
+}
+.portfolio{
+    color: var(--color-c);
+}
+.kontakt{
+    color: var(--color-c);
+}
+.st{
+    color: var(--color-d);
+}
+.pochta1{
+    color: var(--color-b);
+}
+.nomer1{
+    color: var(--color-b);
+}
+.name{
+    cursor: pointer;
+}
+
+
+
+
+footer > p{
+    font-size: 14px;
+line-height: 24px;
+}
+header>ul>li{
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+}
+.pynkti>p{
+    font-size: 14px;
+line-height: 24px;
+}
+.pynkti>h3{
+    font-size: 14px;
+line-height: 16px;
+}
+.foto>p{
+    font-size: 16px;
+    line-height: 19px;
+}
+.foto>h3{
+    font-size: 16px;
+line-height: 19px;
+}
+.podpis{
+    color: var(--color-b);
+}
+.ps{
+    color: var(--color-b);
+    font-size: 16px;
+line-height: 30px;
+}
+.pd{
+    font-size: 18px;
+line-height: 36px;
+}
+.logotip{
+    font-size: 26px;
+line-height: 31px;
+}
+
+.studia:hover:focus{
+    color: var(--color-a);
+}
+h
