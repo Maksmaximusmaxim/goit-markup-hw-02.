@@ -22,8 +22,6 @@ a {
 
 
 
-
-
 .list{
     list-style: none;
 }
@@ -235,6 +233,15 @@ line-height: 31px;
     color: var(--color-a) ;
     
 }
+.name:hover,
+.name:focus 
+.name:active
+.name:visited
+{
+    color: var(--color-a) ;
+    color: #FFFFFF;
+}
+
 
 
 
