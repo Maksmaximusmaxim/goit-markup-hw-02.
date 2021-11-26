@@ -1,5 +1,5 @@
 body{
-    font-family: 'Raleway', sans-serif;
+   
     font-family: 'Roboto', sans-serif;
     
 }
@@ -15,6 +15,7 @@ a {
     --colo-ir:#2dce50 ;
     --color-f:#8178b9 ;
     --color-g:#E5E5E5 ;
+    --color-k: #F5F4FA;
 }
 
 
@@ -37,6 +38,7 @@ a {
 
 .adres{
     color:var(--color-d);
+    font-style: normal;   
 }
 .studio1{
     color: var(--color-c);
@@ -65,7 +67,7 @@ a {
 }
 
 .foto{
- background: var(--color-g)
+ background: var(--color-k);
 }
 .hero-kolor{
     background: var(--color-c);
@@ -99,7 +101,7 @@ color: var(--color-b);
     color: var(--color-b);
 }
 .name{
-background: var(--color-d);
+background: var(--color-k);
 color: var(--color-c);
 }
 .name:hover{
@@ -124,19 +126,25 @@ color: var(--color-d);
 }
 .name{
     cursor: pointer;
+    font-weight: 500;
+font-size: 16px;
+line-height: 26px;
 }
 .podpis{
     font-size: 16px;
 line-height: 19px;
+font-weight: normal;
 color: var(--color-b);
 }
 .pd{
     font-size: 18px;
 line-height: 36px;
+font-weight: bold;
 }
 .ps{
     font-size: 16px;
 line-height: 30px;
+font-weight: normal;
 color: var(--color-b)
 }
 .pochta3{
@@ -153,42 +161,50 @@ line-height: 26px;
 }
 
 p{
-    font-size: 14px;
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
 }
 .pochta, .nomer{
     font-size: 14px;
 }
-address{
-    font-size: 14px;
-}
+
 .nadpis{
     font-size: 44px;
 line-height: 60px;
+font-weight: 900;
 }
 h3{
     font-size: 14px;
 line-height: 16px;
+
 }
 .knopka-hero{
+    font-weight: bold;
     font-size: 16px;
-line-height: 30px;
+    line-height: 30px;
 }
 .text{
     font-size: 14px;
 line-height: 24px;
+font-weight: normal;
 }
 
 h2{
     font-size: 36px;
 line-height: 42px;
+font-weight: bold;
 }
 .g{
     font-size: 36px;
 line-height: 42px;
+font-weight: bold;
 }
 h3{
     font-size: 16px;
 line-height: 19px;
+font-weight: 500;
+
 }
 
 
@@ -203,6 +219,32 @@ line-height: 19px;
     font-size: 26px;
 line-height: 31px;
 }
+
+.menu{
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+.silki{
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+.dannie{
+    font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+
+
+
+
+
+
+
+
+
+
 
 .studias{
     color: var(--color-c);
