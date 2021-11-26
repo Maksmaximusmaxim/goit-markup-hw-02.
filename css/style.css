@@ -16,6 +16,7 @@ a {
     --color-f:#8178b9 ;
     --color-g:#E5E5E5 ;
     --color-k: #F5F4FA;
+    --color-l:  rgba(255, 255, 255, 0.6);
 }
 
 
@@ -53,9 +54,7 @@ a {
 }
 
 }
-.nomer1{
-    color: var(--color-b);
-}
+
 .portfolio :active{
     color:var(--color-a);
 }
@@ -140,6 +139,7 @@ color: var(--color-b);
     font-size: 18px;
 line-height: 36px;
 font-weight: bold;
+color: var(--color-c);
 }
 .ps{
     font-size: 16px;
@@ -216,8 +216,11 @@ font-weight: 500;
 
 
 .logotip{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
     font-size: 26px;
-line-height: 31px;
+    line-height: 31px;
 }
 
 .menu{
@@ -285,5 +288,20 @@ line-height: 24px;
 }
 
 
-
-
+.first-page{
+    color: var(--color-a);
+}
+.second-page{
+    color: var(--color-a);
+}
+.tretya-page{
+    color: var(--color-a);
+}
+.nomer1 , .pochta1{
+    color: var(--color-l);
+}
+.knopka-hero:hover ,
+.knopka-hero:focus{
+ color: var(--color-c);
+ background:  var(--color-d) ;
+}
