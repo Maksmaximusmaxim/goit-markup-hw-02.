@@ -128,43 +128,43 @@ color: var(--color-d);
     cursor: pointer;
     font-weight: 500;
 font-size: 16px;
-line-height: 26px;
+line-height: 1.62;
 }
 .podpis{
     font-size: 16px;
-line-height: 19px;
+line-height: 1.18;
 font-weight: normal;
 color: var(--color-b);
 }
 .pd{
     font-size: 18px;
-line-height: 36px;
+line-height: 2;
 font-weight: bold;
 color: var(--color-c);
 }
 .ps{
     font-size: 16px;
-line-height: 30px;
+line-height: 1.87;
 font-weight: normal;
 color: var(--color-b)
 }
 .pochta3{
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
 }
 .nomer4{
     font-size: 14px;
-line-height: 16px;
+line-height: 1.14;
 }
 .name{
     font-size: 16px;
-line-height: 26px;
+line-height: 1.62;
 }
 
 p{
     font-weight: normal;
 font-size: 14px;
-line-height: 24px;
+line-height: 1.71;
 }
 .pochta, .nomer{
     font-size: 14px;
@@ -172,12 +172,12 @@ line-height: 24px;
 
 .nadpis{
     font-size: 44px;
-line-height: 60px;
+line-height: 1.36;
 font-weight: 900;
 }
 h3{
     font-size: 14px;
-line-height: 16px;
+line-height: 1.14;
 
 
 
@@ -185,28 +185,28 @@ line-height: 16px;
 .knopka-hero{
     font-weight: bold;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.87;
     font-family: inherit ;
 }
 .text{
     font-size: 14px;
-line-height:1.12;
+line-height:1.14;
 font-weight: normal;
 }
 
 h2{
     font-size: 36px;
-line-height: 42px;
+line-height: 1.16;
 font-weight: bold;
 }
 .g{
     font-size: 36px;
-line-height: 42px;
+line-height: 1.16;
 font-weight: bold;
 }
 h3{
     font-size: 16px;
-line-height: 19px;
+line-height: 1.18;
 font-weight: 500;
 
 }
@@ -224,23 +224,23 @@ font-weight: 500;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
 }
 
 .menu{
     font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 1.14;
 }
 .silki{
     font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 1.14;
 }
 .dannie{
     font-weight: normal;
 font-size: 14px;
-line-height: 24px;
+line-height: 1.71;
 }
 
 
