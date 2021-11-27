@@ -17,6 +17,7 @@ a {
     --color-g:#E5E5E5 ;
     --color-k: #F5F4FA;
     --color-l:  rgba(255, 255, 255, 0.6);
+    --color-m:#188CE8;
 }
 
 
@@ -189,7 +190,7 @@ line-height: 16px;
 }
 .text{
     font-size: 14px;
-line-height: 24px;
+line-height:1.12;
 font-weight: normal;
 }
 
@@ -305,8 +306,8 @@ line-height: 24px;
 }
 .knopka-hero:hover ,
 .knopka-hero:focus{
- color: var(--color-c);
- background:  var(--color-d) ;
+ color: var(--color-d);
+ background: var(--color-m) ;
 }
 .zagalovki ,.nadpis{
     text-transform: uppercase;
